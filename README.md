@@ -2,7 +2,8 @@
 
 ## How-to-Use Guide
 #### Tumor Anatomy
-* Insert key(s) into the trachea cover and lock into place to compress the trachea. It may be easier to do this by first removing the trachea base. To do so: first detach the connector tube from the back of the head, then disconnect it from the trachea. Lift the trachea base up and out of the groove in the base plate. Insert and lock the key(s) as desired and place the trachea base back into its groove. Reattach the connector tube to the trachea, then reattach the other end to the back of the head.
+* To compress the trachea, insert key(s) into the trachea cover and lock into place by twisting the key 90 degrees until it slots into the groove on the underside of the cover. 
+* It may be easier to do the above step by first removing the trachea base. To do so: first detach the connector tube from the back of the head, then disconnect it from the trachea. Lift the trachea base up and out of the groove in the base plate. Insert and lock the key(s) as desired and place the trachea base back into its groove. Reattach the connector tube to the trachea, then reattach the other end to the back of the head.
 
 #### Normal Anatomy
 * Before inserting scope, ensure all tumor keys have been removed from the trachea cover so that the trachea is uncompressed.
@@ -12,6 +13,8 @@
 
 ## Parts, Materials & Equipment
 ### Parts List
+> <img src="https://user-images.githubusercontent.com/84343976/232132433-dbdb490a-ee03-4830-9c5f-afeb931b940c.png" width="700">
+
 #### Printed Parts
 * back plate — airway phantom back plate.stl/3mf
 * chest wall — airway phantom chest wall.stl/3mf
@@ -31,8 +34,8 @@
 #### Other
 * 4 push-in rubber bumpers — 1/2" ID, 1” high stem — https://www.mcmaster.com/products/feet/compressible-stem-push-in-bumpers/
 * 3 zip ties
-* 9 M4 screws (40mm long)
-* 2 M3 screws (13mm long)
+* 9 M4 screws (4 - 40mm long, 5 - 18mm long)
+* 2 M3 screws (12mm long)
 
 ### Materials
 * PLA, PETG, or a similarly rigid 3D printing filament
@@ -45,10 +48,10 @@
 ## Assembly Instructions
 1. Print out the printed components. Each part only needs to be printed once per model, except for the tumor keys and tumor key tips, which can be printed more times to create more complex tumor anatomy if desired.
 2. Insert a rubber foot into each of the 4 holes on the bottom of the back plate.
-3. Attach the tracheostomy port to the head with 2 M3 screws.
-4. Attach the head to the chest wall with 2 M4 screws.
+3. Attach the tracheostomy port to the head with two 12mm long M3 screws.
+4. Attach the head to the chest wall with four 40mm long M4 screws.
 5. Insert the chest wall into the grooves along the sides of the base plate.
-6. Attach the trachea base plate cover to the base plate with 5 M4 screws.
+6. Attach the trachea base plate cover to the base plate with five 18mm long M4 screws.
 7. Insert the trachea into the base plate and align it with the groove in the base plate. Secure it with 3 zip ties.
 8. Insert the tip of the key into the tumor tip. If desired, configure the tumor placement by inserting and locking keys into the base plate.
 9. Place the base plate into the grooves on the back plate.
