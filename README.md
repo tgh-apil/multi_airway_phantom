@@ -32,7 +32,7 @@
 ** Headform model was modified from NIOSH National Personal Protective Technology Laboratory (NPPTL)’s ISO Digital Headforms (specifically the medium size): https://www.cdc.gov/niosh/npptl/topics/respirators/headforms/default.html
 
 #### Other
-* 4 push-in rubber bumpers — 1/2" ID, 1” high stem — https://www.mcmaster.com/products/feet/compressible-stem-push-in-bumpers/
+* 4 push-in rubber bumpers — 1/2" ID, 1” high stem — https://www.mcmaster.com/9310K16/
 * 3 zip ties
 * 9 M4 screws (4 - 40mm long, 5 - 18mm long)
 * 2 M3 screws (12mm long)
