@@ -1,5 +1,12 @@
 # Multi Airway Phantom
 
+A multipurpose airway training phantom, created using 3D printing. This phantom can be used to practice inserting a scope into a tumorless trachea, or configured to partially compress the trachea, simulating the presence of tumors. It can also be used to practice the insertion of a tracheostomy tube. See how-to-use guide and assembly instructions below.
+
+This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca/), Toronto General Hospital, University Health Network.
+
+> <img src="https://user-images.githubusercontent.com/84343976/236012102-0868384d-9b35-4b7b-85e5-40b166a1ed67.png" width="479"><img src="https://user-images.githubusercontent.com/84343976/236012098-e67a2195-cea0-47b1-abd7-83927df35ace.png" width="248"><br>
+> Fully assembled phantom, side view and top view.
+
 ## How-to-Use Guide
 #### Tumor Anatomy
 * To compress the trachea, insert key(s) into the trachea cover and lock into place by twisting the key 90 degrees until it slots into the groove on the underside of the cover. 
@@ -9,7 +16,7 @@
 * Before inserting scope, ensure all tumor keys have been removed from the trachea cover so that the trachea is uncompressed.
 
 #### Tracheostomy
-* The tracheostomy portion of the phantom is independent of whether or not the tumor keys have been locked into the cover.
+* The tracheostomy portion of the phantom is independent of whether or not the tumor keys have been locked into the cover. Insert the tracheostomy tube through the opening on the phantom's neck.
 
 ## Parts, Materials & Equipment
 ### Parts List
@@ -26,6 +33,8 @@
 * trachea* — airway phantom trachea.stl/3mf
 * tracheostomy port* — airway phantom tracheostomy port.stl/3mf
 * tumor key tip* — airway phantom tumor tip.stl/3mf
+
+Files are available for download [here](https://github.com/tgh-apil/multi_airway_phantom/tree/main/stl%20%26%203mf%20files).
 
 \* ***Print these parts using flexible TPE filament. Print the rest (including the head) with a rigid plastic like PLA or PETG.***
 
