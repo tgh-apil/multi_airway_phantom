@@ -1,11 +1,20 @@
 # Multi Airway Phantom
 
-A multipurpose airway training phantom, created using 3D printing. This phantom can be used to practice inserting a scope into a tumorless trachea, or configured to partially compress the trachea, simulating the presence of tumors. It can also be used to practice the insertion of a tracheostomy tube. See how-to-use guide and assembly instructions below.
+A multipurpose airway training phantom, created using 3D printing. This phantom can be used to practice inserting a scope into a tumorless trachea, or configured to partially compress the trachea, simulating the presence of tumors. It can also be used to practice the insertion of a tracheostomy tube. See purchasing information, how-to-use guide, and assembly instructions below.
 
 This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca/), Toronto General Hospital, University Health Network.
 
 > <img src="https://user-images.githubusercontent.com/84343976/236012102-0868384d-9b35-4b7b-85e5-40b166a1ed67.png" width="479"><img src="https://user-images.githubusercontent.com/84343976/236012098-e67a2195-cea0-47b1-abd7-83927df35ace.png" width="248"><br>
 > Fully assembled phantom, side view and top view.
+
+## Purchasing Information
+
+To purchase this phantom, please email <apil@uhn.ca> and a represtative will be in touch with you with more details.
+
+**A purchased phantom contains the following**:
+
+1. Fully assembled APIL Multi Airway Phantom
+2. 3 x tumor keys (tumor tips included)
 
 ## How-to-Use Guide
 #### Tumor Anatomy
