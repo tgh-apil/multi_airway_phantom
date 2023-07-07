@@ -4,8 +4,7 @@ A multipurpose airway training phantom, created using 3D printing. This phantom 
 
 This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca/), Toronto General Hospital, University Health Network.
 
-> <img src="https://user-images.githubusercontent.com/84343976/236012102-0868384d-9b35-4b7b-85e5-40b166a1ed67.png" width="479"><img src="https://user-images.githubusercontent.com/84343976/236012098-e67a2195-cea0-47b1-abd7-83927df35ace.png" width="248"><br>
-> Fully assembled phantom, side view and top view.
+![airway assembled disassembled](https://github.com/tgh-apil/multi_airway_phantom/assets/84343976/67b1f806-f945-4ec1-8ffc-e2d5689b409d)
 
 ## Purchasing Information
 
